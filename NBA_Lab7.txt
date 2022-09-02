@@ -1,0 +1,30 @@
+43	39	37.4	18.1	Atlanta Hawks
+51	31	35.6	17	Boston Celtics
+44	38	36.1	17.5	Brooklyn Nets
+43	39	36.5	15.8	Charlotte Hornets
+46	36	36.9	17.5	Chicago Bulls
+44	38	35.5	16.8	Cleveland Cavaliers
+52	30	35	16.4	Dallas Mavericks
+48	34	35.3	16.7	Denver Nuggets
+23	59	32.6	17.2	Detroit Pistons
+53	29	36.4	15.6	Golden State Warriors
+20	62	34.9	17.5	Houston Rockets
+25	57	34.4	16.4	Indiana Pacers
+42	40	37.4	15.5	LA Clippers
+33	49	34.7	16.8	Los Angeles Lakers
+56	26	35.3	17	Memphis Grizzlies
+53	29	37.9	17.3	Miami Heat
+51	31	36.6	17.8	Milwaukee Bucks
+46	36	35.8	18	Minnesota Timberwolves
+36	46	33.2	18.3	New Orleans Pelicans
+37	45	35.7	18	New York Knicks
+24	58	32.3	15	Oklahoma City Thunder
+22	60	33.1	15.5	Orlando Magic
+51	31	36.4	19.6	Philadelphia 76ers
+64	18	36.4	15.9	Phoenix Suns
+27	55	34.6	16.4	Portland Trail Blazers
+30	52	34.4	17.9	Sacramento Kings
+34	48	35.2	15.4	San Antonio Spurs
+48	34	34.9	16.2	Toronto Raptors
+49	33	36	17.9	Utah Jazz
+35	47	34.2	17	Washington Wizards

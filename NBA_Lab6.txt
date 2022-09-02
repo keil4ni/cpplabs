@@ -1,0 +1,30 @@
+43	39	Atlanta Hawks
+51	31	Boston Celtics
+44	38	Brooklyn Nets
+43	39	Charlotte Hornets
+46	36	Chicago Bulls
+44	38	Cleveland Cavaliers
+52	30	Dallas Mavericks
+48	34	Denver Nuggets
+23	59	Detroit Pistons
+53	29	Golden State Warriors
+20	62	Houston Rockets
+25	57	Indiana Pacers
+42	40	LA Clippers
+33	49	Los Angeles Lakers
+56	26	Memphis Grizzlies
+53	29	Miami Heat
+51	31	Milwaukee Bucks
+46	36	Minnesota Timberwolves
+36	46	New Orleans Pelicans
+37	45	New York Knicks
+24	58	Oklahoma City Thunder
+22	60	Orlando Magic
+51	31	Philadelphia 76ers
+64	18	Phoenix Suns
+27	55	Portland Trail Blazers
+30	52	Sacramento Kings
+34	48	San Antonio Spurs
+48	34	Toronto Raptors
+49	33	Utah Jazz
+35	47	Washington Wizards
